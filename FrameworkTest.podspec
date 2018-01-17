@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FrameworkTest"
-  s.version      = "2.3.0"
+  s.version      = "2.3.1"
   s.summary      = "framework测试"
   s.description  = <<-DESC
 		      对framework测试
