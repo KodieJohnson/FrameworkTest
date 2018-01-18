@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FrameworkTestTest"
-  s.version      = "2.3.7"
+  s.version      = "2.3.6"
   s.summary      = "这是测试."
 
   # This description is used to generate tags and improve search results.
